@@ -573,7 +573,7 @@
             "colorCapabilities":{"id":16394,"type":"uint16"},
             "colorTempPhysicalMin":{"id":16395,"type":"uint16"},
             "colorTempPhysicalMax":{"id":16396,"type":"uint16"}},
-        "cmd":{"moveToHue":0,"moveHue":1,"stepHue":2,"moveToSaturation":3,"moveSaturation":4,"stepSaturation":5,"moveToHueAndSaturation":6,"moveToColor":7,"moveColor":8,"stepColor":9,"moveToColorTemp":10,"enhancedMoveToHue":64,"enhancedMoveHue":65,"enhancedStepHue":66,"enhancedMoveToHueAndSaturation":67,"colorLoopSet":68,"stopMoveStep":71},
+        "cmd": { "moveToHue": 0, "moveHue": 1, "stepHue": 2, "moveToSaturation": 3, "moveSaturation": 4, "stepSaturation": 5, "moveToHueAndSaturation": 6, "moveToColor": 7, "moveColor": 8, "stepColor": 9, "moveToColorTemp": 10, "enhancedMoveToHue": 64, "enhancedMoveHue": 65, "enhancedStepHue": 66, "enhancedMoveToHueAndSaturation": 67, "colorLoopSet": 68, "stopMoveStep": 71, "moveColorTemp": 75, "stepColorTemp": 76 },
         "cmdRsp":null},
     "lightingBallastCfg": {
         "attrId":{
